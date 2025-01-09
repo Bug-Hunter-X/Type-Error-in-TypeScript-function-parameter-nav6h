@@ -1,0 +1,2 @@
+# Type Error in TypeScript Function Parameter
+This example demonstrates a common type error in TypeScript when passing an array to a function expecting a string.  The `greeter` function expects a single string, but an array of strings is passed.
